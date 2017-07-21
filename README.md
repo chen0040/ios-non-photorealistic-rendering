@@ -18,9 +18,9 @@ The user can also draw on the image
 
 The completed art work can then be saved to the NPR library as shown here:
 
-![saved](screenshots/saved.png)
+![saved](screenshots/saved.PNG)
 
-![managed](screenshots/managed.png)
+![managed](screenshots/managed.PNG)
 
 The completed art can then be shared in social network
 
